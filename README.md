@@ -1,3 +1,3 @@
 Demo
 
-Practice the Github demo.
+Practice the Github demo!
